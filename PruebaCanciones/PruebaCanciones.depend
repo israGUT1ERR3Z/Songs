@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1668749688 source:d:\edya\pruebacanciones\main.cpp
+	<vector>
+	<string>
+	<iostream>
+	"Cancion.h"
+	"Artista.h"
+	"Album.h"
+	<cstdlib>
+
+1668720186 source:d:\edya\pruebacanciones\src\cancion.cpp
+	"Cancion.h"
+	<string>
+
+1667804836 d:\edya\pruebacanciones\include\cancion.h
+	<string>
+
+1667801722 source:d:\edya\pruebacanciones\src\album.cpp
+	"Album.h"
+	<string>
+	<vector>
+	<iostream>
+	"Cancion.h"
+
+1667801406 d:\edya\pruebacanciones\include\album.h
+	<string>
+	<vector>
+	"Cancion.h"
+
+1667802920 source:d:\edya\pruebacanciones\src\artista.cpp
+	"Artista.h"
+	"Album.h"
+	<vector>
+	<string>
+	<iostream>
+
+1667801342 d:\edya\pruebacanciones\include\artista.h
+	"Album.h"
+	<vector>
+	<string>
+
